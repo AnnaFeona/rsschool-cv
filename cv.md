@@ -3,6 +3,7 @@
 email: *glavatskikh.anna@gmail.com*
 discord: *Hanna Hlavatskikh (@AnnaFeona)#1090*
 github: *https://github.com/AnnaFeona*
+
 ********
 ## Personal Profile Statement:
 
