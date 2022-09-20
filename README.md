@@ -1,1 +1,1 @@
- https://github.com/AnnaFeona/rsschool-cv/cv
+ https://github.io/AnnaFeona/rsschool-cv/cv
