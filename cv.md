@@ -8,6 +8,7 @@ github: *https://github.com/AnnaFeona*
 
 ## Education:
 ### 2022 - RSS FE Stage 0
+### 2022 - RSS JS Frontend
 ### 2002 - 2007 Radiophisics, Belorussian state university
 * Bacalaur degree
 
