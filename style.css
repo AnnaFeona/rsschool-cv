@@ -138,6 +138,9 @@ body {
     line-height: 50px;
     font-weight: 300;
     color: white;
+
+    cursor: pointer;
+    padding-right: 1rem;
 }
 
 .rss{
